@@ -15,7 +15,7 @@ export default {
           webpackChunkName: true
         },
         fastClick: true,
-        title: '蝉時雨'
+        title: '弥月'
       }
     ]
   ]
